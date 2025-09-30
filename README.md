@@ -271,4 +271,4 @@ I created **Knowledge Engine** to solve my own problem, and now I'm excited to s
 * **🚀 Boosty:** [boosty.to/petrunin.platon](https://boosty.to/petrunin.platon)
 * **✈️ Telegram:** [t.me/PPetrunin](https://t.me/PPetrunin)
 * **📺 YouTube:** [youtube.com/@platonpae](https://www.youtube.com/@platonpae)
-* **🌐 Portfolio:** [Platon Petrunin](https://x.com/petrunin_platon)
+* **🌐 X (twitter):** [Platon Petrunin](https://x.com/petrunin_platon)
