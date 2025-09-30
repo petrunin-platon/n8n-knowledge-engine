@@ -1,0 +1,53 @@
+# Docker Compose syntax version
+version: '3.8'
+
+# Definition of all services (containers)
+services:
+  # --- Our n8n service ---
+  n8n:
+    # Tell Docker to build an image from the Dockerfile in the current folder
+    build: .
+    image: custom-n8n-engine:latest # The name of our custom image
+    restart: always
+    ports:
+      - "5678:5678" # Forward the port so we can access n8n via a browser
+    environment:
+      - NODE_OPTIONS=--max-old-space-size=8192
+      - N8N_DEFAULT_NODE_OPTIONS=--max-old-space-size=8192
+      - N8N_PAYLOAD_SIZE_MAX=134217728
+      - EXECUTIONS_DATA_PRUNE=true
+      - EXECUTIONS_DATA_MAX_AGE=168
+      - N8N_REQUEST_TIMEOUT=300000
+      - DB_TYPE=postgresdb
+      - DB_POSTGRESDB_HOST=ai_db
+      - DB_POSTGRESDB_PORT=5432
+      - DB_POSTGRESDB_USER=postgres
+      - DB_POSTGRESDB_PASSWORD=YOUR_PASSWORD # <-- REPLACE THIS
+      - DB_POSTGRESDB_DATABASE=n8n_db
+      - GENERIC_TIMEZONE=Europe/Minsk
+    volumes:
+      # --- THE MOST IMPORTANT SECTION: FOLDER MAPPING (VOLUMES) ---
+      # Format: 'PATH_ON_YOUR_COMPUTER':'PATH_INSIDE_THE_CONTAINER'
+      - './n8n_data:/home/node/.n8n' # n8n data
+      - './Obsidian/n8n-project/Inbox:/inbox' # Folder for .md notes
+      - './Obsidian/n8n-project/00_Files:/media' # Folder for video and audio
+      - './temp:/temp' # Folder for temporary files
+      - './cookies:/cookies'
+    depends_on:
+      - ai_db
+
+  # --- Our database ---
+  ai_db:
+    image: supabase/postgres:17.4.1.075
+    restart: always
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=YOUR_PASSWORD # <-- USE THE SAME PASSWORD
+      - POSTGRES_DB=n8n_db
+    volumes:
+      - './supabase_data:/var/lib/postgresql/data' # Database data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
