@@ -1,6 +1,6 @@
 Knowledge Engine: YouTube to Obsidian Automation Workflows
 <p align="center">
-<img src="[https://public-files.gumroad.com/296nfchp91f4615z7f4xzzpdl7ap]" alt="Knowledge Engine Cover">
+<img src="[https://public-files.gumroad.com/296nfchp91f4615z7f4xzzpdl7ap](https://public-files.gumroad.com/296nfchp91f4615z7f4xzzpdl7ap)" alt="Knowledge Engine Cover">
 </p>
 
 This repository contains the installation guide and supplementary files for the Knowledge Engine, a powerful set of n8n templates designed to turn any YouTube video into a structured, AI-enriched note in your Obsidian knowledge base.
