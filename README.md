@@ -236,8 +236,28 @@ You don't need to edit the workflow code! All settings are conveniently managed 
 When you purchase Knowledge Engine, you receive a license to use the workflow templates. We offer two tiers to let you choose the level of support you need.
 
 <p align="center">
-  <a href="https://ibb.co/TBwD256C"><img src="https://i.ibb.co/C5wp8Fgr/3.png" alt="License Tiers" border="0" width="1024"></a>
+  <a href="https://ibb.co/TBwD256C"><img src="https://i.ibb.co/C5wp8Fgr/3.png" alt="License Tiers" border="0" width="700"></a>
 </p>
+
+### 🛒 Where to Buy
+
+You can purchase Knowledge Engine on one of two convenient platforms:
+
+#### **1. Gumroad (Primary Method)**
+Purchasing through Gumroad is the primary and recommended method. You will get immediate access to all files after paying with a credit card.
+* **➡️ [Purchase "Knowledge Engine" on Gumroad](https://pplaton.gumroad.com/l/youtube-to-obsidian)**
+
+#### **2. Telegram (Alternative Method)**
+If you prefer to make your purchase directly within Telegram (via credit card or Telegram Stars), use the following links:
+
+* **To purchase the main product (Templates + PDF):**
+    * **[Pay with Card (Web Link)](https://web.tribute.tg/p/lcq)**
+    * **[Pay inside Telegram App](https://t.me/tribute/app?startapp=plcq)**
+
+* **To order the VIP service (Setup + 1 Hour Support):**
+    * **[Order the Service in Telegram](https://t.me/tribute/app?startapp=plcw)**
+
+---
 
 ### License Terms
 
