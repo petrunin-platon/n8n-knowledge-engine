@@ -210,7 +210,7 @@ Inside your `.zip` archive, you'll find everything you need to get started. This
 You don't need to edit the workflow code! All settings are conveniently managed in a Google Sheet.
 
 <p align="center">
-  <a href="https://ibb.co/My9RrSYQ"><img src="https://i.ibb.co/ZRNh5Xn7/4.png" alt="Google Sheets Configuration" border="0" width="700"></a>
+  <a href="https://ibb.co/My9RrSYQ"><img src="https://i.ibb.co/ZRNh5Xn7/4.png" alt="Google Sheets Configuration" border="0" width="1024"></a>
 </p>
 
 1.  **Make a copy** of the Google Sheet template that matches your use case:
@@ -236,7 +236,7 @@ You don't need to edit the workflow code! All settings are conveniently managed 
 When you purchase Knowledge Engine, you receive a license to use the workflow templates. We offer two tiers to let you choose the level of support you need.
 
 <p align="center">
-  <a href="https://ibb.co/TBwD256C"><img src="https://i.ibb.co/C5wp8Fgr/3.png" alt="License Tiers" border="0" width="700"></a>
+  <a href="https://ibb.co/TBwD256C"><img src="https://i.ibb.co/C5wp8Fgr/3.png" alt="License Tiers" border="0" width="1024"></a>
 </p>
 
 ### License Terms
