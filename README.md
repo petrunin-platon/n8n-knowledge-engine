@@ -236,12 +236,14 @@ You don't need to edit the workflow code! All settings are conveniently managed 
 When you purchase Knowledge Engine, you receive a license to use the workflow templates. We offer two tiers to let you choose the level of support you need.
 
 <p align="center">
-  <a href="https://ibb.co/TBwD256C"><img src="https://i.ibb.co/C5wp8Fgr/3.png" alt="License Tiers" border="0" width="700"></a>
+  <a href="https://ibb.co/TBwD256C"><img src="https://i.ibb.co/C5wp8Fgr/3.png" alt="License Tiers" border="0" width="1024"></a>
 </p>
+
 
 ### 🛒 Where to Buy
 
 You can purchase Knowledge Engine by choosing one of the convenient methods below.
+
 
 #### **✈️ Telegram (Most Recommended & Best Value Method)**
 
@@ -254,7 +256,7 @@ Purchasing directly through Telegram is the **most advantageous method** for bot
 * **To order the VIP service (Setup + 1 Hour Support):**
     * **[Order VIP Service in Telegram](https://t.me/tribute/app?startapp=plcw)**
 
----
+
 #### **💳 Gumroad (Alternative Method)**
 
 If you are more accustomed to the Gumroad platform or prefer to pay using **PayPal**, you can use this link.
