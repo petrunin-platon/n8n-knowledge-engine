@@ -241,21 +241,25 @@ When you purchase Knowledge Engine, you receive a license to use the workflow te
 
 ### 🛒 Where to Buy
 
-You can purchase Knowledge Engine on one of two convenient platforms:
+You can purchase Knowledge Engine by choosing one of the convenient methods below.
 
-#### **1. Gumroad (Primary Method)**
-Purchasing through Gumroad is the primary and recommended method. You will get immediate access to all files after paying with a credit card.
-* **➡️ [Purchase "Knowledge Engine" on Gumroad](https://pplaton.gumroad.com/l/youtube-to-obsidian)**
+#### **✈️ Telegram (Most Recommended & Best Value Method)**
 
-#### **2. Telegram (Alternative Method)**
-If you prefer to make your purchase directly within Telegram (via credit card or Telegram Stars), use the following links:
+Purchasing directly through Telegram is the **most advantageous method** for both of us. Thanks to the platform's features, **you pay minimal taxes** on the purchase, and I pay lower fees. It's the best way to support the project and save money.
 
 * **To purchase the main product (Templates + PDF):**
-    * **[Pay with Card (Web Link)](https://web.tribute.tg/p/lcq)**
-    * **[Pay inside Telegram App](https://t.me/tribute/app?startapp=plcq)**
+    * **[Buy in Telegram App (Stars, Card)](https://t.me/tribute/app?startapp=plcq)**
+    * **[Buy via Web Page (Card)](https://web.tribute.tg/p/lcq)**
 
 * **To order the VIP service (Setup + 1 Hour Support):**
-    * **[Order the Service in Telegram](https://t.me/tribute/app?startapp=plcw)**
+    * **[Order VIP Service in Telegram](https://t.me/tribute/app?startapp=plcw)**
+
+---
+#### **💳 Gumroad (Alternative Method)**
+
+If you are more accustomed to the Gumroad platform or prefer to pay using **PayPal**, you can use this link.
+
+* **➡️ [Purchase on Gumroad (Card, PayPal)](https://pplaton.gumroad.com/l/youtube-to-obsidian)**
 
 ---
 
