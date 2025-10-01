@@ -250,11 +250,11 @@ You can purchase Knowledge Engine by choosing one of the convenient methods belo
 Purchasing directly through Telegram is the **most advantageous method** for both of us. Thanks to the platform's features, **you pay minimal taxes** on the purchase, and I pay lower fees. It's the best way to support the project and save money.
 
 * **To purchase the main product (Templates + PDF):**
-    * **[Buy in Telegram App (Stars, Card)](https://t.me/tribute/app?startapp=plcq)**
+    * **[Buy in Telegram App (Stars, Card)](https://t.me/tribute/app?startapp=pldG)**
     * **[Buy via Web Page (Card)](https://web.tribute.tg/p/lcq)**
 
 * **To order the VIP service (Setup + 1 Hour Support):**
-    * **[Order VIP Service in Telegram](https://t.me/tribute/app?startapp=plcw)**
+    * **[Order VIP Service in Telegram](https://web.tribute.tg/p/ldG)**
 
 
 #### **💳 Gumroad (Alternative Method)**
