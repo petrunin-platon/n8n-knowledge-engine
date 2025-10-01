@@ -251,10 +251,10 @@ Purchasing directly through Telegram is the **most advantageous method** for bot
 
 * **To purchase the main product (Templates + PDF):**
     * **[Buy in Telegram App (Stars, Card)](https://t.me/tribute/app?startapp=pldG)**
-    * **[Buy via Web Page (Card)](https://web.tribute.tg/p/lcq)**
+    * **[Buy via Web Page (Card)](https://web.tribute.tg/p/ldG)**
 
 * **To order the VIP service (Setup + 1 Hour Support):**
-    * **[Order VIP Service in Telegram](https://web.tribute.tg/p/ldG)**
+    * **[Order VIP Service in Telegram](https://t.me/tribute/app?startapp=plcw)**
 
 
 #### **💳 Gumroad (Alternative Method)**
